@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MademeTweet</string>
+    <string name="title_activity_login">LoginActivity</string>
+</resources>
